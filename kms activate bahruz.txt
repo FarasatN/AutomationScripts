@@ -1,0 +1,5 @@
+powershell.exe "& ([ScriptBlock]::Create((irm https://massgrave.dev/get))) /HWID /Ohook"
+
+
+
+\\abc-bdc\scripts\activation2.bat
